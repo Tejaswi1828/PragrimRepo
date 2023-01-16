@@ -1,1 +1,2 @@
 This is the secondary file created by dev1..#
+In this we modified master branch file.
