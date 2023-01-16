@@ -1,5 +1,4 @@
 Hello This is cretaed by developer2...!!
- main
-modified the beanch from local git to git hub.
+modified the branch from local git to git hub.
+modified the branch from local git to git.
 new branch is added
-cdt
